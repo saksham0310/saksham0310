@@ -38,26 +38,26 @@ I'm a passionate **full-stack web developer** with expertise in both front-end a
 ---
 
 ### 📊 LeetCode Stats
-<p align="center">
-    <img src="https://leetcard.jacoblin.cool/saksham0310?theme=dark" alt="LeetCode Stats" />
-    <img src="https://leetcard.jacoblin.cool/saksham0310?theme=dark&ext=heatmap" alt="LeetCode Heatmap" />
-    <img src="https://leetcard.jacoblin.cool/saksham0310?theme=dark&ext=contest" alt="LeetCode Contest Rating" />
-</p>
+<table align="center" width="100%" height="100%">
+    <tr>
+        <td><img style="border: none;" src="https://leetcard.jacoblin.cool/saksham0310?theme=dark&ext=heatmap" alt="LeetCode Heatmap" /></td>
+        <!-- LeetCode Contest Rating -->
+        <td><img style="border: none;" src="https://leetcard.jacoblin.cool/saksham0310?theme=dark&ext=contest" alt="LeetCode Contest Rating" /></td>
+    </tr>
+</table>
 
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saksham0310&theme=github_dark" alt="GitHub Profile Details"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham0310&theme=merko" alt="GitHub Streak Stats"/>
-</p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saksham0310&theme=github_dark" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saksham0310&theme=github_dark&utcOffset=10" alt="Productive Time"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saksham0310&theme=github_dark" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saksham0310&theme=github_dark" alt="Most Commit Language"/>
-</p>
+<table align="center" width="100%" height="100%">
+        <tr>
+            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saksham0310&theme=github_dark" alt="saksham0310's GitHub Stats"/></td>
+            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saksham0310&theme=github_dark&utcOffset=10" alt="saksham0310's GitHub Stats"/></td>
+            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saksham0310&theme=github_dark" alt="saksham0310's GitHub Stats"/></td>
+            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saksham0310&theme=github_dark" alt="saksham0310's GitHub Stats"/></td>
+        </tr>
+    </table>
 
 ---
 
