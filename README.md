@@ -40,7 +40,6 @@ I'm a passionate **full-stack web developer** with expertise in both front-end a
 ### 📊 LeetCode Stats
 <table align="center" width="100%" height="100%">
     <tr>
-        <td><img style="border: none;" src="https://leetcard.jacoblin.cool/saksham0310?theme=dark&ext=heatmap" alt="LeetCode Heatmap" /></td>
         <!-- LeetCode Contest Rating -->
         <td><img style="border: none;" src="https://leetcard.jacoblin.cool/saksham0310?theme=dark&ext=contest" alt="LeetCode Contest Rating" /></td>
     </tr>
